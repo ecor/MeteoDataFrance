@@ -1,0 +1,16 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id = MFR07984
+latitude = 42.473
+longitude = 2.121167
+altitude = 1930
+nodata = -999
+tz =    +00
+fields = timestamp DW VW TA TD RH HS
+units_offset = 0 0 0 0 0 0 0
+units_multiplier = 1 1 1 1 1 1 1
+location =    ST PIERRE DELS FORCATS
+[DATA]
+2015-12-27T07:10:00    0    0 274.05  262.27   41 0.18
+2016-01-16T09:00:00 -999 -999 260.15 -999.00 -999 0.13
+2016-01-16T12:00:00 -999 -999 263.25  259.98   77 0.13

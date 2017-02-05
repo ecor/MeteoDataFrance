@@ -1,0 +1,186 @@
+Descriptif,Mnemonique,type,unite,SMET_ID,SMET_UNIT,IDparam
+Location de la station,Nom,car,,location, ,Nom
+ID,ID,car,,station_id, ,ID
+Indicatif OMM station,numer_sta,car,,station_id_reapeted,NA,numer_sta
+Date (UTC),date,car, AAAAMMJJHHMISS,timestamp,NA,date
+Longitude de la station ,Longitude,real,degree,longitude,,Longitude
+Latitude de la station ,Latitude,real,degree,latitude,,Latitude
+Altitude de la station,Altitude,real, m,altitude,NA,Altitude
+Altitude de la station,haut_sta,real, m,altitude_repeated,NA,haut_sta
+Direction du vent moyen 10 mn,dd,int,degre,DW,1,dd
+Vitesse du vent moyen 10 mn,ff,real,m/s,VW,1,ff
+Temperature,t,real,K,TA,1,t
+Point de rosee,td,real,K,TD,NA,td
+Humidite ,u,int,%,RH,0.01,u
+Temps present, ww,int,code,,NA, ww
+Temps passe 1, w1,int,code,,NA, w1
+Temps passe 2, w2,int,code,,NA, w2
+Nebulosite totale, n,real,%,,NA, n
+Nebulosite des nuages de l[etage inferieur,nbas,int,octa,,NA,nbas
+Hauteur de la base des nuages de l[etage inferieur,bbas,int,octa,,NA,bbas
+Type des nuages de l[etage inferieur,cl ,int,code,,NA,cl 
+Type des nuages de l[etage moyen,cm,int,code,,NA,cm
+Type des nuages de l[etage superieur,ch,int,code,,NA,ch
+Precipitations dans les N dernieres heures,rrN,real,mm,,NA,rrN
+Temperature minimale sur N heures,tnN,real,K,,NA,tnN
+Temperature maximale sur N heures,txN,real,K,,NA,txN
+Hauteur de la neige fraiche,ssfrai,real,m,HS_fresh,NA,ssfrai
+Periode de mesure de la neige fraiche,perssfrai,real,m,,NA,perssfrai
+Phenomene special,phenspeN,real,code,,NA,phenspeN
+Etendue cche nuageuse 1,nnuage1,int,code,,NA,nnuage1
+Temperature de surface de la neige,t_neige,real,K,TSS,1,t_neige
+Etat de la neige,etat_neige,int,code,,NA,etat_neige
+Profondeur d[enfoncement de la sonde, prof_sonde,int,m,,NA, prof_sonde
+Nuages dans la vallee,nuage_val,int,code,,NA,nuage_val
+Chasse-neige en altitude,chasse_neige,int,code,,NA,chasse_neige
+Description de l[avalanche observee,aval_descr,int,code,,NA,aval_descr
+Genre d[avalanche,aval_genre,int,code,,NA,aval_genre
+Altitude dee depart de l[avalanche,aval_depart,int,code,,NA,aval_depart
+Exposition de l[avalanche,aval_expo,int,code,,NA,aval_expo
+Estimation du risque d[avalanche,aval_risque,int,code,,NA,aval_risque
+Direction vent en altitude,dd_alti,int,degre,,NA,dd_alti
+Force du vent en altitude,ff_alti,real,m/s,,NA,ff_alti
+Hauteur de neige en altitude,ht_neige_alti,real,m,,NA,ht_neige_alti
+Hauteur de neige fraiche,neige_fraiche,real,m,HS_fresh_reapeted,1,neige_fraiche
+Teneur en eau liquide volumique de la neige,teneur_eau,int,%,,NA,teneur_eau
+Type des grains de surface predominants,grain_predom,int,code,,NA,grain_predom
+Type des grains de surface les plus nombreux,grain_nombre,int,code,,NA,grain_nombre
+Diametre moyen des grains,grain_diametr,int,mm,,NA,grain_diametr
+Indicateur d[homogeneite de la couche, homogeneite,int,code,,NA, homogeneite
+Pression au niveau mer,pmer,int,Pa,,NA,pmer
+Variation de pression en 3 heures,tend,real,Pa,,NA,tend
+Type de tendance barometrique,Cod_tend,real,code (0200),,NA,Cod_tend
+Visibilite horizontale,vv,real,m,,NA,vv
+Temps present,ww,int,code (4677),,NA,ww
+Temps passe1,w1,int,code (4561),,NA,w1
+Temps passe2,w2,int,code (4561),,NA,w2
+Nebulositetotale,n,real,%,,NA,n
+Hauteur de la base des nuages de l[etage inferieur,hbas,int,metre,,NA,hbas
+Type des nuages de l[etage inferieur,cl,int,code (0513),,NA,cl
+Pression station,pres,int,Pa,,NA,pres
+Niveau barometrique,niv_bar,int,Pa,,NA,niv_bar
+Geopotentiel,geop,int,m2/s2,,NA,geop
+Variation de pression en 24 heures,tend24,int,Pa,,NA,tend24
+Temperature minimale du sol sur 12 heures,tminsol,real,K,,NA,tminsol
+Methode mesure tw,sw,int,code (3855),,NA,sw
+Temperature du thermometre mouille,tw,real,K,,NA,tw
+Rafales sur les 10 dernieres minutes,raf10,real,m/s,,NA,raf10
+Rafales sur une periode,rafper,real,m/s,,NA,rafper
+Periode de mesure de la rafale,per,real,min,,NA,per
+Etat du sol,etat_sol,int,code (0901),,NA,etat_sol
+Hauteur totale de la couche de neige glace autre au sol,ht_neige,real,m,HS,NA,ht_neige
+Nebulositecche nuageuse N,nnuageN,int,octa,,NA,nnuageN
+Type nuage N,ctypeN,int,code (0500),,NA,ctypeN
+Hauteur de base N,hnuoageN,int,m,,NA,hnuoageN
+homogeneite,homogeneite,real,,,,homogeneite
+Type de tendance barometrique,cod_tend,int,Code(0200),,,cod_tend
+Phenomene special,phenspe1,real,code,,,phenspe1
+Phenomene special,phenspe2,real,code,,,phenspe2
+Phenomene special,phenspe3,real,code,,,phenspe3
+Phenomene special,phenspe4,real,code,,,phenspe4
+Phenomene special,phenspe5,real,code,,,phenspe5
+Phenomene special,phenspe6,real,code,,,phenspe6
+Hauteur de base 1,hnuage1,real,m,,,hnuage1
+Hauteur de base 2,hnuage2,real,m,,,hnuage2
+Hauteur de base 3,hnuage3,real,m,,,hnuage3
+Hauteur de base 4,hnuage4,real,m,,,hnuage4
+Hauteur de base 5,hnuage5,real,m,,,hnuage5
+Hauteur de base 6,hnuage6,real,m,,,hnuage6
+Masse volumique de la neige,m_vol_neige,real,,,,m_vol_neige
+prof_sonde,prof_sonde,real,,,,prof_sonde
+Precipitations dans les1 dernieres heures,rr1,real,mm,,NA,rr1
+Precipitations dans les2 dernieres heures,rr2,real,mm,,NA,rr2
+Precipitations dans les3 dernieres heures,rr3,real,mm,,NA,rr3
+Precipitations dans les4 dernieres heures,rr4,real,mm,,NA,rr4
+Precipitations dans les5 dernieres heures,rr5,real,mm,,NA,rr5
+Precipitations dans les6 dernieres heures,rr6,real,mm,,NA,rr6
+Precipitations dans les7 dernieres heures,rr7,real,mm,,NA,rr7
+Precipitations dans les8 dernieres heures,rr8,real,mm,,NA,rr8
+Precipitations dans les9 dernieres heures,rr9,real,mm,,NA,rr9
+Precipitations dans les10 dernieres heures,rr10,real,mm,,NA,rr10
+Precipitations dans les11 dernieres heures,rr11,real,mm,,NA,rr11
+Precipitations dans les12 dernieres heures,rr12,real,mm,,NA,rr12
+Precipitations dans les18 dernieres heures,rr18,real,mm,,NA,rr18
+Precipitations dans les24 dernieres heures,rr24,real,mm,,NA,rr24
+Precipitations dans les36 dernieres heures,rr36,real,mm,,NA,rr36
+Precipitations dans les48 dernieres heures,rr48,real,mm,,NA,rr48
+Temperature minimale sur1 heures,tn1,real,K,,NA,tn1
+Temperature minimale sur2 heures,tn2,real,K,,NA,tn2
+Temperature minimale sur3 heures,tn3,real,K,,NA,tn3
+Temperature minimale sur4 heures,tn4,real,K,,NA,tn4
+Temperature minimale sur5 heures,tn5,real,K,,NA,tn5
+Temperature minimale sur6 heures,tn6,real,K,,NA,tn6
+Temperature minimale sur7 heures,tn7,real,K,,NA,tn7
+Temperature minimale sur8 heures,tn8,real,K,,NA,tn8
+Temperature minimale sur9 heures,tn9,real,K,,NA,tn9
+Temperature minimale sur10 heures,tn10,real,K,,NA,tn10
+Temperature minimale sur11 heures,tn11,real,K,,NA,tn11
+Temperature minimale sur12 heures,tn12,real,K,,NA,tn12
+Temperature minimale sur18 heures,tn18,real,K,,NA,tn18
+Temperature minimale sur24 heures,tn24,real,K,,NA,tn24
+Temperature minimale sur36 heures,tn36,real,K,,NA,tn36
+Temperature minimale sur48 heures,tn48,real,K,,NA,tn48
+Temperature maximale sur1 heures,tx1,real,K,,NA,tx1
+Temperature maximale sur2 heures,tx2,real,K,,NA,tx2
+Temperature maximale sur3 heures,tx3,real,K,,NA,tx3
+Temperature maximale sur4 heures,tx4,real,K,,NA,tx4
+Temperature maximale sur5 heures,tx5,real,K,,NA,tx5
+Temperature maximale sur6 heures,tx6,real,K,,NA,tx6
+Temperature maximale sur7 heures,tx7,real,K,,NA,tx7
+Temperature maximale sur8 heures,tx8,real,K,,NA,tx8
+Temperature maximale sur9 heures,tx9,real,K,,NA,tx9
+Temperature maximale sur10 heures,tx10,real,K,,NA,tx10
+Temperature maximale sur11 heures,tx11,real,K,,NA,tx11
+Temperature maximale sur12 heures,tx12,real,K,,NA,tx12
+Temperature maximale sur18 heures,tx18,real,K,,NA,tx18
+Temperature maximale sur24 heures,tx24,real,K,,NA,tx24
+Temperature maximale sur36 heures,tx36,real,K,,NA,tx36
+Temperature maximale sur48 heures,tx48,real,K,,NA,tx48
+Nebulositecche nuageuse1,nnuage1,int,octa,,NA,nnuage1
+Nebulositecche nuageuse2,nnuage2,int,octa,,NA,nnuage2
+Nebulositecche nuageuse3,nnuage3,int,octa,,NA,nnuage3
+Nebulositecche nuageuse4,nnuage4,int,octa,,NA,nnuage4
+Nebulositecche nuageuse5,nnuage5,int,octa,,NA,nnuage5
+Nebulositecche nuageuse6,nnuage6,int,octa,,NA,nnuage6
+Nebulositecche nuageuse7,nnuage7,int,octa,,NA,nnuage7
+Nebulositecche nuageuse8,nnuage8,int,octa,,NA,nnuage8
+Nebulositecche nuageuse9,nnuage9,int,octa,,NA,nnuage9
+Nebulositecche nuageuse10,nnuage10,int,octa,,NA,nnuage10
+Nebulositecche nuageuse11,nnuage11,int,octa,,NA,nnuage11
+Nebulositecche nuageuse12,nnuage12,int,octa,,NA,nnuage12
+Nebulositecche nuageuse18,nnuage18,int,octa,,NA,nnuage18
+Nebulositecche nuageuse24,nnuage24,int,octa,,NA,nnuage24
+Nebulositecche nuageuse36,nnuage36,int,octa,,NA,nnuage36
+Nebulositecche nuageuse48,nnuage48,int,octa,,NA,nnuage48
+Type nuage1,ctype1,int,code (0500),,NA,ctype1
+Type nuage2,ctype2,int,code (0500),,NA,ctype2
+Type nuage3,ctype3,int,code (0500),,NA,ctype3
+Type nuage4,ctype4,int,code (0500),,NA,ctype4
+Type nuage5,ctype5,int,code (0500),,NA,ctype5
+Type nuage6,ctype6,int,code (0500),,NA,ctype6
+Type nuage7,ctype7,int,code (0500),,NA,ctype7
+Type nuage8,ctype8,int,code (0500),,NA,ctype8
+Type nuage9,ctype9,int,code (0500),,NA,ctype9
+Type nuage10,ctype10,int,code (0500),,NA,ctype10
+Type nuage11,ctype11,int,code (0500),,NA,ctype11
+Type nuage12,ctype12,int,code (0500),,NA,ctype12
+Type nuage18,ctype18,int,code (0500),,NA,ctype18
+Type nuage24,ctype24,int,code (0500),,NA,ctype24
+Type nuage36,ctype36,int,code (0500),,NA,ctype36
+Type nuage48,ctype48,int,code (0500),,NA,ctype48
+Hauteur de base1,hnuoage1,int,m,,NA,hnuoage1
+Hauteur de base2,hnuoage2,int,m,,NA,hnuoage2
+Hauteur de base3,hnuoage3,int,m,,NA,hnuoage3
+Hauteur de base4,hnuoage4,int,m,,NA,hnuoage4
+Hauteur de base5,hnuoage5,int,m,,NA,hnuoage5
+Hauteur de base6,hnuoage6,int,m,,NA,hnuoage6
+Hauteur de base7,hnuoage7,int,m,,NA,hnuoage7
+Hauteur de base8,hnuoage8,int,m,,NA,hnuoage8
+Hauteur de base9,hnuoage9,int,m,,NA,hnuoage9
+Hauteur de base10,hnuoage10,int,m,,NA,hnuoage10
+Hauteur de base11,hnuoage11,int,m,,NA,hnuoage11
+Hauteur de base12,hnuoage12,int,m,,NA,hnuoage12
+Hauteur de base18,hnuoage18,int,m,,NA,hnuoage18
+Hauteur de base24,hnuoage24,int,m,,NA,hnuoage24
+Hauteur de base36,hnuoage36,int,m,,NA,hnuoage36
+Hauteur de base48,hnuoage48,int,m,,NA,hnuoage48

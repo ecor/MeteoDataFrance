@@ -1,0 +1,14 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id = MFR07584
+latitude = 44.932667
+longitude = 6.292
+altitude = 1738
+nodata = -999
+tz =   +00
+fields = timestamp DW VW TA TD RH HS
+units_offset = 0 0 0 0 0 0 0
+units_multiplier = 1 1 1 1 1 1 1
+location =   La Berarde
+[DATA]
+2015-10-30T08:30:00 0 0 284.15 -999 -999 0

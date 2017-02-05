@@ -1,0 +1,14 @@
+SMET 1.1 ASCII
+[HEADER]
+station_id = MFR07746
+latitude = 42.755
+longitude = 1.863333
+altitude = 1600
+nodata = -999
+tz =    +00
+fields = timestamp DW VW TA TD RH HS
+units_offset = 0 0 0 0 0 0 0
+units_multiplier = 1 1 1 1 1 1 1
+location =    LE CHIOULA
+[DATA]
+2015-11-15T08:00:00 -999 -999 -999 -999 -999 -999

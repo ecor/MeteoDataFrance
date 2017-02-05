@@ -1,0 +1,408 @@
+﻿
+<!DOCTYPE HTML>
+<html lang="fr" xml:lang="fr">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible"  content="IE=edge,chrome=1">
+<meta name="description" content="Catalogue des données publiques de Météo France avec ou sans redevance" />
+<meta name="keywords" lang="fr" content="Météo France, Données Publiques, Observations Radar, Observations In situ, Climatologie,
+Modèles et données de prévisions, Prévisions climatiques, Open data, observations en mer, réseau de mesure météo, météorologie spatiale,
+normales climatologiques, informations publiques, PSI, climatologiques, stations" />
+<meta name="generator" content="thelia" />
+<!--[if IE]>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="msapplication-navbutton-color" content="#c6d782" />
+<![endif]-->
+<title>Données Publiques de Météo-France - Données non disponibles</title>
+<!-- CSS : En production, regrouper & compresser les CSS -->
+<!-- CSS : personalise portail dp -->
+<link rel="shortcut icon" type="image/x-icon" href="https://donneespubliques.meteofrance.fr/template/assets/img/contents/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="https://donneespubliques.meteofrance.fr/template/assets/img/contents/favicon.ico" />
+<!-- Scripts -->
+<script type="text/javascript">var urlPublitheque="https://publitheque.meteo.fr";</script>
+<script type="text/javascript">var cleIGN="iahmia4i29gonnv9blw87h5k";</script>
+<link rel="stylesheet" media="all" href="https://donneespubliques.meteofrance.fr/template/meta-style-1170.css"/>
+<script src="https://donneespubliques.meteofrance.fr/template/meta-script-1170.js"></script>
+</head>
+<!--[if IE 9]><body class="ie ie9"><![endif]-->
+<!--[if IE 8]><body class="ie ie8"><![endif]-->
+<!--[if IE 7]><body class="ie ie7"><![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!--><body><!--<![endif]-->
+<header>
+<div class="header site-dp" role="banner">
+	<div class="header-1-wrapper">	
+		<ul id="acc-links">
+			<li><a href="#a_nav-2">Menu</a></li>
+			<li><a href="#a_content">Contenu</a></li>
+			<li><a href="#">Plan du site</a></li>
+		</ul>
+		<div class="header-1" id="a_nav">
+			<h1 class="header-logo-wrapper"><img src="https://donneespubliques.meteofrance.fr/template/assets/img/contents/meteo-france.png" class="header-logo" alt="Météo France" /></h1>
+			<div class="change-car-size display-none">
+				<button type="button" id="change-car-size-plus"><img src="https://donneespubliques.meteofrance.fr/template/assets/img/change-car-size-plus.png" title="Agrandir la taille des caractères" alt="Agrandir la taille des caractères" /></button>
+				<button type="button" id="change-car-size-minus"><img src="https://donneespubliques.meteofrance.fr/template/assets/img/change-car-size-minus.png" title="Réduire la taille des caractères" alt="Réduire la taille des caractères" /></button>	
+			</div>
+			<div class="sites-mf">
+				<div class="sites-mf-content">
+				<a href="#" class="sites-mf-trigger"><span>Autres sites</span></a>
+				<div class="sites-mf-list">
+					<div class="sites-mf-list-blocs">
+						<div class="sites-mf-list-bloc">
+							<ul>
+								<li class="first"><h2 class="title"><a data-bypass="" href="http://vigilance.meteofrance.com" rel="nofollow">Vigilance météorologique</a></h2></li>
+								<li>
+									<h2 class="title"><a data-bypass="" href="http://education.meteofrance.fr" rel="nofollow" title="Des contenus pédagogiques validés et adaptés aux programmes d'enseignement destinés aux enseignants et scolaires.">Éducation</a></h2>
+									<!-- <p>Des contenus pédagogiques validés et adaptés aux programmes d'enseignement destinés aux enseignants et scolaires.</p> -->
+								</li>
+								<li>
+									<h2 class="title">Sites internet en Outre-mer<a></a></h2>
+									<a class="sites_om" href="http://www.meteo.gp/" target="_self" >Météo-France Antilles-Guyane</a><br>
+									<a class="sites_om" href="http://www.meteo.fr/temps/domtom/La_Reunion/meteoreunion2/" target="_self" >Météo-France La Réunion</a><br>
+									<a class="sites_om" href="http://www.meteo.nc/" target="_self" >Météo-France Nouvelle-Calédonie</a><br>
+									<a class="sites_om" href="http://www.meteo.fr/meteonet/temps/monde/prev/outremer/mayotte.htm" target="_self" >Météo-France Mayotte</a><br>
+									<a class="sites_om" href="http://www.meteo.pf/" target="_self" >Météo-France Polynésie</a>
+								</li>
+							</ul>
+						</div>
+						<div class="sites-mf-list-bloc">
+							<ul>
+								<li class="first"><h2 class="title"><a data-bypass="" href="https://aviation.meteo.fr/login.php" rel="nofollow">Aviation</a></h2></li>
+								<li><h2 class="title"><a data-bypass="" href="http://www.cnrm.meteo.fr/" rel="nofollow">Centre de recherches de Météo-France</a></h2></li>
+								<li><h2 class="title"><a data-bypass="" href="http://www.enm.meteo.fr/" rel="nofollow">Ecole nationale de la météorologie</a></h2></li>
+								<li><h2 class="title"><a data-bypass="" href="http://pluiesextremes.meteo.fr/" rel="nofollow">Pluies extrêmes</a></h2></li>
+								<li class="last"><h2 class="title"><a data-bypass="" href="http://bibliotheque.meteo.fr/" rel="nofollow">Portail documentaire</a></h2></li>
+							</ul>
+						</div>
+						<div class="sites-mf-list-bloc">
+							<ul>
+								<li class="first"><h2 class="title"><a data-bypass="" href="http://hal-meteofrance.archives-ouvertes.fr/" rel="nofollow">HAL-Météo-France</a></h2></li>
+								<li><h2 class="title"><a data-bypass="" href="http://www.meteo-spatiale.fr/src/accueil.php" rel="nofollow">Centre de météorologie spatiale</a></h2></li>
+								<li><h2 class="title"><a data-bypass="" href="http://www.drias-climat.fr" rel="nofollow">Drias, les futurs du climat</a></h2></li>
+								<li><h2 class="title"><a data-bypass="" href="http://www.veilleurs-du-temps.fr/pages/accueil.php" rel="nofollow">Veilleurs du temps</a></h2></li>
+								<li class="last"><h2 class="title"><a data-bypass="" href="https://meteofrance.achatpublic.com/sdm/ent/gen/index.do" rel="nofollow">Marchés publics</a></h2></li>
+							</ul>
+						</div>
+					</div>
+					<a class="close btn-1" title="Fermer la zone Plus" href="#"><span>Fermer</span></a> 
+				</div>
+				</div>
+			</div>
+			<nav>
+			<div class="nav" id="nav">
+				<ul>
+					<li class="one-line"><a href="http://www.meteofrance.com"><span>Prévisions</span></a></li>
+					<li><a class="center" href="http://www.meteofrance.fr" title="Mieux connaitre Météo-France"><span>Météo-France<br />et Vous</span></a></li>
+					<li class="space"><span>&nbsp;</span></li>
+					<li class="active"><a href="#" title="Données publiques, page active"><span>Données<br />publiques</span></a></li>
+					<li><a href="https://espaceprofessionnels.meteofrance.com"><span>Professionnels<br />et collectivités</span></a></li>
+					<li class="last"><a href="https://espaceparticuliers.meteofrance.com"><span>Boutique<br/>particuliers</span></a></li>
+				</ul>
+			</div>
+			</nav>
+		</div><!--/header-1-->
+	</div><!--/header-1-wrapper-->
+	<div class="header-2-wrapper">	
+		<div class="header-2">
+			<h2 class="header-title">Données publiques</h2>
+			<div class="layout-row">
+				<!--<script language='javascript' charset='UTF-8' src='https://www.meteofrance.com/mf3-rpc-portlet/rest/vigilance/export' TYPE='text/javascript'></script>-->
+				<iframe src= "" id="containerVigilance2" scrolling='no' frameborder="0" align="middle"></iframe>
+				<div class="mod-recherche" role="search">
+						<form action="https://donneespubliques.meteofrance.fr/?fond=recherche" method="post" name="recherche" id="recherche" class="mod-recherche-form">			
+									<label class="custom-select-container custom-recherche"  for="search">Rechercher</label>
+								<input type="search" class="search-input" value="" name="motcle" id="search" />
+								<input type="image" src="https://donneespubliques.meteofrance.fr/template/assets/img/search.png" alt="Lancer la recherche" title="Lancer la recherche" />
+						</form>
+				</div><!--/mod-recherche-->
+				<div class="mod-signin">
+					<!-- Client anonyme -->
+					<form	 method="post" name="flog" target="_blank">
+					<input type="hidden" name="login" value=""/>
+					<input type="hidden" name="mdpE" value=""  />
+					</form>				
+					<div class="mod-signin-inscr">
+						<h2 class="mod-signin-title">Créer un compte</h2>
+						<p>&nbsp;</p>
+						<a href="https://donneespubliques.meteofrance.fr/?fond=creation_compte" class="mod-signin-btn-insc">S’inscrire</a>
+					</div><!--/mod-signin-inscr-->
+					<div class="mod-signin-ident">
+						<form onsubmit="return verif_email('connexion_bandeau');" action="https://donneespubliques.meteofrance.fr/?fond=donnee_indisponible" method="post" name="connexion_bandeau">
+							<input type="hidden" name="action" value="connexion" />
+							<input type="hidden" name="urlok" value="https://donneespubliques.meteofrance.fr/?fond=donnee_indisponible" />
+							<input type="hidden" name="urlerr" value="https://donneespubliques.meteofrance.fr/?fond=donnee_indisponible&amp;errconnex=1&depuisbandeau=1" />
+							<h2 class="mod-signin-title">Déjà inscrit ?</h2>
+							<div class="form-row">
+								<label for="courriel" class="hidden">Identifiant</label>
+								<input type="text" value="" name="email" id="courriel" placeholder="Votre adresse e-mail" />
+							</div>
+							<div class="form-row">
+								<label for="mdp" class="hidden">Mot de passe</label>
+								<input type="password" value="" name="motdepasse" id="mdp" placeholder="Votre mot de passe" />
+								<input type="submit" title="Se connecter" value="OK" />
+							</div>
+							<a href="https://donneespubliques.meteofrance.fr/?fond=mdpoublie" class="forgot-pwd">&gt; Mot de passe oublié ?</a>
+						</form>
+					</div><!--/mod-signin-ident-->
+       				 <!-- Client connecté  -->
+				</div><!--/mod-signin-->
+			</div>
+		</div><!--/header-2-->
+	</div><!--/header-2-wrapper-->
+</div>
+</header><!--/header-->
+<div class="site site-dp">
+<nav>
+	<div class="nav-2" id="a_nav-2">
+		<ul>
+			<li class="link "><a href="index.php">Accueil</a></li>
+			<li class="link "><a href="?fond=dossier&id_dossier=1">Textes officiels et conditions d'accès</a></li>
+			<li class="link "><a href="?fond=rubrique">Catalogue</a></li>
+			<li class="link "><a href="?fond=caracteristique&caracteristique=11&caracdisp=28">Données libres<br>d'accès</a></li>
+			<li class="link "><a href="?fond=contenu&id_contenu=37">Informations<br>sur les stations</a></li>
+			<li class="link "><a href="?fond=contenu&id_contenu=35">Référence<br>tarifaire</a></li>
+			<li class="link "><a href="?fond=geoservices&id_dossier=14">Géoservices</a></li>
+			<li class="link "><a href="?fond=faq&id_dossier=5">F.A.Q.</a></li>
+		</ul>
+	</div>
+</nav>
+	<div class="page">
+		<!-- Fil d'Ariane -->
+		<div class="breadcrumb">
+			<ul>
+				<li>Fichier non trouvé</li>
+			</ul>
+		</div>
+        <div class="page-body page-body-right" role="main" id="a_content">
+			<h1 class="page-title-1">Fichier non trouvé</h1>
+			<div class="title-sep"></div>
+			Les données auxquelles vous essayez d'accéder ne sont pas disponibles.
+			<div style="margin:auto;width:580px;">
+				<img src="https://donneespubliques.meteofrance.fr/template/_gfx/pictos_erreur.jpg" alt="404" />
+			</div>
+        </div><!--/page-body-->
+		<div class="sidebar sidebar-left">
+			<div class="block-1">
+				<div class="block-header">
+					<h2>
+	    			 	<a href="https://donneespubliques.meteofrance.fr/?fond=rubrique">Catalogue</a>
+						<a href="client/pdf/catalogue.php" target="_blank" ><img class="valign-bottom" src="https://donneespubliques.meteofrance.fr/template/_gfx/pdf.png" alt="Export du catalogue au format PDF" title="Export du catalogue au format PDF" /></a>
+	    			</h2>
+				</div>
+				<div class="block-body">
+					<ul class="list-style-2">
+				            <li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=26" >Observations In situ</a>
+				            </li>
+				            <li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=27" >Observations Radar</a>
+				            </li>
+				            <li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=28" >Observations Satellite</a>
+				            </li>
+				            <li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=29" >Climatologie</a>
+				            </li>
+				            <li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=30" >Modèles et données de prévisions</a>
+				            </li>
+				            <li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=31" >Prévisions climatiques</a>
+				            </li>
+					</ul>
+				</div><!--/block-body-->
+			</div><!--/block-1-->
+			<!-- Autres liens données gratuites -->
+		</div><!-- /sidebar -->
+	</div><!--/page-->
+		<footer>
+	<div class="footer">
+		<div class="footer-1">
+			<div class="footer-col">
+				<h2 class="footer-title"><a href="https://donneespubliques.meteofrance.fr/?fond=dossier&amp;id_dossier=1">Textes officiels</a></h2>
+				<ul>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=dossier&amp;id_dossier=1#contenu_6">Textes officiels</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=dossier&amp;id_dossier=1#contenu_21">Télécharger les licences au format PDF</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=dossier&amp;id_dossier=1#contenu_22">Conditions d'utilisation</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=dossier&amp;id_dossier=1#contenu_41">Gestion des cookies</a></li>
+				</ul>
+			</div><!--/footer-col-->
+			<div class="footer-col">
+				<h2 class="footer-title"><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique">Catalogue</a></h2>
+				<ul>
+					<li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=26">Observations In situ</a></li>
+					<li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=27">Observations Radar</a></li>
+					<li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=28">Observations Satellite</a></li>
+					<li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=29">Climatologie</a></li>
+					<li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=30">Modèles et données de prévisions</a></li>
+					<li><a href="https://donneespubliques.meteofrance.fr/?fond=rubrique&amp;id_rubrique=31">Prévisions climatiques</a></li>
+				</ul>
+			</div><!--/footer-col-->
+			<div class="footer-col">
+				<h2 class="footer-title"><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5">FAQ</a></h2>
+				<ul>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_7">Comment consulter les données gratuites ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_10">Comment créer un compte utilisateur ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_19">Comment consulter et modifier vos informations personnelles ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_18">Comment recharger votre compte à points ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_20">Quels sont les modes de paiement autorisés?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_8">Comment se présente l'espace de commande en ligne ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_17">Comment commander des données hors ligne ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_11">Quelle est la différence entre la licence standard et la licence spéciale ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_36">Quel navigateur utiliser ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_31">Contacter le service support du portail Données Publiques</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_38">Je suis chercheur ou enseignant : comment ai-je accès aux données ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_43">Données de modèle Arpège et Arome : Que signifie tel paramètre ? Comment est calculé tel paramètre ? Quel est l'algorithme utilisé pour calculer telle donnée ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_44">Quelles sont les différences entre Arpège et Arome ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_45">Quelles sont les dernières améliorations apportées au modèle ARPEGE ?</a></li>
+		            	<li><a href="https://donneespubliques.meteofrance.fr/?fond=faq&amp;id_dossier=5#contenu_46">Quelles sont les dernières améliorations apportées au modèle AROME ?</a></li>
+				</ul>
+			</div><!--/footer-col-->
+			<div class="footer-col footer-col-last">
+				<h2 class="footer-title footer-title-2-lines">Autres sites<br> de météo-france</h2>
+				<div class="autres-sites-mf">
+					<a target="_blank" onclick="action_espace_client(); return false" href="https://publitheque.meteo.fr/okapi/accueil/okapiWebPubli/index.jsp" >Publitheque.meteo.fr</a>
+					<p>Accès direct à l'espace de commande</p>
+				</div>
+				<div class="autres-sites-mf">
+					<a href="http://www.meteofrance.com">Prévisions</a>
+					<p>Données climatologiques et prévisions à 10 jours sur la France et le monde</p>
+				</div>
+				<div class="autres-sites-mf">
+					<a href="http://www.meteofrance.fr">Météo-France et Vous</a>
+					<p>La météo, le climat et Météo-France décryptés pour vous</p>
+				</div>
+				<div class="autres-sites-mf">
+				       	<a href="http://education.meteofrance.fr" data-bypass="">Éducation</a>
+					<p>Des contenus pédagogiques validés et adaptés aux programmes d'enseignement destinés aux enseignants et scolaires.</p>
+				</div>
+			</div><!--/footer-col-->
+		</div><!--/footer-1-->
+		<div class="footer-2" id="footer-2">
+			<div class="footer-logo-wrapper">
+				<img src="https://donneespubliques.meteofrance.fr/template/assets/img/contents/meteo-france.png" class="footer-logo" alt="Météo France, toujours un temps d'avance" />
+			</div>
+			<ul class="footer-links">
+				<li><a href="http://www.meteofrance.fr">Météo-France</a>|</li>
+				<li><a href="?fond=contact ">Contact</a>|</li>
+				<li><a href="http://www.meteofrance.fr/accueil/informations-environnementales">Informations&nbsp;environnementales</a>|</li>
+                <li><a href="?fond=dossier&id_dossier=1#contenu_41">Gestion des cookies</a></li>
+			</ul>
+		</div> <!--/footer-2-->
+		<div class="footer-logos">
+			<a href="http://www.developpement-durable.gouv.fr/"><img src="https://donneespubliques.meteofrance.fr/template/assets/img/contents/ministere-ecologie.png" alt="Ministère de l'Écologie, du Développement durable et de l'énergie" /></a>
+		</div>
+		<div id="fenetremodale"></div>
+	</div>
+	</footer>		
+<script>
+		var gaProperty = 'UA-44214251-1';
+		// Désactive le tracking si le cookie d’Opt-out existe déjà.
+		var disableStr = 'ga-disable-' + gaProperty;
+		function getCookieExpireDate() { 
+			var cookieTimeout = 34214400000;// Le nombre de millisecondes que font 13 mois 
+			var date = new Date();
+			date.setTime(date.getTime()+cookieTimeout);
+			var expires = "; expires="+date.toGMTString();
+			return expires;
+		}
+		// Cette fonction est appelée pour afficher la demande de consentement
+		function askConsent(){
+			var bodytag = document.getElementsByTagName('body')[0];
+			var div = document.createElement('div');
+			div.setAttribute('id','cookie-banner');
+			div.setAttribute('width','70%');
+			// Le code HTML de la demande de consentement
+			// Vous pouvez modifier le contenu ainsi que le style
+			/*div.innerHTML =  '<div>Ce site utilise Google Analytics.\
+			En continuant à naviguer, vous nous autorisez à déposer des cookies à des fins de \
+			mesure d\'audience.  Pour s\'opposer à ce dépôt vous pouvez cliquer  \
+			<a href="javascript:gaOptout()">ici</a>.</div>';          */
+            header=document.getElementsByName('header');
+            $('header').before( '<div id="cookieChoiceInfo" ><div style="width: 100%; background: url(&quot;/mf3-base-theme/images/grad-grey-5.png&quot;) repeat-x scroll center bottom rgb(245, 245, 245); height: 68px;"><div style="width: 780px; margin: 0px auto; padding: 0.6em 15px;"><a href="#" onclick="$(\'#cookieChoiceInfo\').slideUp();return false;" style="float:right;" id="cookieChoiceDismiss"><img style="padding:8px;" src="template/_gfx/cross.png"></a><div style="margin-bottom:0.4em">En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies susceptibles de vous proposer des services et des contenus ciblés adaptés à vos centres d\'intérêt, et de réaliser des statistiques de visites. </div><a target="_blank" data-bypass="" href="?fond=dossier&id_dossier=1#contenu_41" style="color:#1A606C;font-weight:bold">En savoir plus et paramétrer les cookies.</a><div style="clear:both"></div></div></div></div>');
+			$("#cookieChoiceInfo").hide().slideDown();
+		}
+		// Retourne la chaine de caractère correspondant à nom=valeur
+		function getCookie(NomDuCookie)  {
+			if (document.cookie.length > 0) {        
+				begin = document.cookie.indexOf(NomDuCookie+"=");
+				if (begin != -1)  {
+					begin += NomDuCookie.length+1;
+					end = document.cookie.indexOf(";", begin);
+					if (end == -1) end = document.cookie.length;
+					return unescape(document.cookie.substring(begin, end)); 
+				}
+			}
+			return null;
+		}
+		// Efface tous les types de cookies utilisés par Google Analytics    
+		function deleteXitiCookies() {
+			for (var cookieName in $.cookie()) {
+				if(cookieName.substring(0,2) === 'xt') {
+					$.removeCookie(cookieName,{path:"/",domain:"meteofrance.fr"});
+				}
+			}
+		}
+		function deleteAnalyticsCookies() {
+			var cookieNames = ["__utma","__utmb","__utmc","__utmz","_ga","_gat"]
+			for (var i=0; i<cookieNames.length; i++)
+				$.removeCookie(cookieNames[i],{path:"/",domain:"meteofrance.fr"});
+		}
+		// La fonction d'opt-out   
+		function gaOptout() {
+			document.cookie = disableStr + '=true;'+ getCookieExpireDate() +' ; path=/';       
+			document.cookie = 'hasConsent=false;'+ getCookieExpireDate() +' ; path=/';
+			var div = document.getElementById('cookie-banner');
+			// Ci dessous le code de la bannière affichée une fois que l'utilisateur s'est opposé au dépôt
+			// Vous pouvez modifier le contenu et le style
+			if ( div!= null ) div.innerHTML = '<div> Vous vous êtes opposé \
+			au dépôt de cookies de mesures d\'audience dans votre navigateur </div>'
+            popup('Vous vous êtes opposé au dépôt de cookies de mesures d\'audience dans votre navigateur');
+			window[disableStr] = true;
+			deleteAnalyticsCookies();
+			deleteXitiCookies();
+			$(div).delay(3000).slideUp();
+		}
+	$(function() {
+		var consentCookie =  getCookie('hasConsent');
+		if (!consentCookie) {//L'utilisateur n'a pas encore de cookie de consentement
+			var referrer_host = document.referrer.split('/')[2]; 
+			if ( referrer_host != document.location.hostname ) { //si il vient d'un autre site
+				//on désactive le tracking et on affiche la demande de consentement            
+				window[disableStr] = true;
+				window[disableStr] = true;
+				window.onload = askConsent;
+			} else { //sinon on lui dépose un cookie 
+			document.cookie = 'hasConsent=true; '+ getCookieExpireDate() +' ; path=/'; 
+			}
+		}
+		Date.now = Date.now || function() { return +new Date; }; 
+		$('#containerVigilance2').attr("src","template/vigi.html?"+Date.now());
+		xtnv = document;        //parent.document or top.document or document         
+		xtsd = "https://logs1279";
+		xtsite = "531129";
+		xtn2="0"; // level 2 site ID
+		xtpage = "Données non disponibles";        //page name (with the use of :: to create chapters)
+		xtdi = "";        //implication degree
+		xt_multc = "";		//all the xi indicators (like "&x1=...&x2=....&x3=...")
+		xt_an = "";        //user ID
+		xt_ac = "";        //category ID
+		//do not modify below
+		if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+xt_multc;}
+		else{window.xtparam="&ac="+xt_ac+"&an="+xt_an+xt_multc;};
+		// Si l'utilisateur a refusé le tracking, on efface ses cookies xiti et GA à chaque appel de marqueur car les cookies peuvent avoir été créés sur les autres sites meteofrance.fr. On n'effectue pas non plus l'appel au marqueur xiti car il utilise des cookies en domaine xiti.com qu'on ne peut effacer.
+		if (document.cookie.indexOf('hasConsent=false') > -1) {
+			window[disableStr] = true;
+			deleteAnalyticsCookies();
+			deleteXitiCookies();
+		}
+		else if ( document.cookie.indexOf('hasConsent=true')> -1 ) {
+			$.getScript("https://donneespubliques.meteofrance.fr/template/js/xtcore-1170.js");
+		}
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', gaProperty, 'meteofrance.fr',{'cookieExpires': 60 * 60 * 24* 365});
+		ga('send', 'pageview');
+	});
+</script>
+<noscript>
+	<img width="1" height="1" alt="" src="https://logs1279.xiti.com/hit.xiti?s=531129&amp;s2=&amp;p=Données non disponibles&amp;di=&amp;an=&amp;ac=" >
+	</noscript>
+</div><!--/site-->
+</body>
+</html>

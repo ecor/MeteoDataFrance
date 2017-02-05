@@ -1,0 +1,18 @@
+Package: MeteoDataFrance
+Maintainer: Emanuele Cordano <emanuele.cordano@gmail.com>
+License: GPL (>= 2)
+Title: An R Plug-in to Get Real-Time Snow-Weather Data in French Alps and
+    Pyrenees
+Type: Package
+Author: Emanuele Cordano
+Description: Daily and sub-daily point weather data from MeteoFrance (https://
+    donneespubliques.meteofrance.fr) can be directly imported in R. Functions to
+    download and get the data are included. The date are released with a CC-BY 2.0
+    compatible open licence, text also included in the package files.
+Version: 1.0.3
+Date: 2016-02-18
+Repository: CRAN
+Depends:
+    stringr,jsonlite
+URL: https://github.com/ecor/MeteoDataFrance
+RoxygenNote: 5.0.1
